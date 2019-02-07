@@ -1,2 +1,4 @@
 # SSIAM
-Codes and dataset to Automatic Face &amp; Gesture Recognition (FG 2019). Self-Supervised Learning of Face Representations for Video Face Clustering
+Codes and dataset to Self-Supervised Learning of Face Representations for Video Face Clustering, Automatic Face &amp; Gesture Recognition (FG 2019).
+
+
