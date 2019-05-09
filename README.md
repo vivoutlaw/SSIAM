@@ -56,4 +56,4 @@ This script will train and test the SSiam method on `BBT-0101` dataset:
 
     >> demo()
     
-Note that we only train/test our code on single-GPU mode. Running `demo.m` will reproduce the results in our paper for `BBT-0101`.
+Note that we only train/test our code on single-GPU mode. Running `demo.m` will reproduce the results in our paper for `BBT-0101` for both `track-level` and `frame-level` representation.
