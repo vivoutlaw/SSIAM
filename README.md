@@ -1,4 +1,5 @@
 # Self-Supervised Learning of Face Representations for Video Face Clustering (FG 2019)
+### [Paper](https://arxiv.org/pdf/1711.11585.pdf) <br>
 
 [Vivek Sharma](http://vivoutlaw.github.io), 
 [Makarand Tapaswi](http://www.cs.toronto.edu/~makarand/), 
@@ -8,13 +9,13 @@ and [Rainer Stiefelhagen](https://cvhci.anthropomatik.kit.edu/people_596.php)
 IEEE International Conference on Automatic Face and Gesture Recognition, FG 2019 
 
 ### Table of Contents
-1. [Introduction](#introduction)
+1. [Abstract](#abstract)
 1. [Citation](#citation)
 1. [Requirements and Dependencies](#requirements-and-dependencies)
 1. [Installation](#installation)
-1. [Training and Testing SSiam](#training-ssiam)
+1. [Training and Testing SSiam](#training-testing-ssiam)
 
-### Introduction
+### Abstract
 Analyzing the story behind TV series and movies often requires understanding who the characters are and what they are doing. With improving deep face models, this may seem like a solved problem. However, as face detectors get better, clustering/identification needs to be revisited to address increasing diversity in facial appearance. In this paper, we
 address video face clustering using unsupervised methods. Our emphasis is on distilling the essential information, identity, from the representations obtained using deep pre-trained face networks. We propose a self-supervised Siamese network that can be trained without the need for video/track based supervision, and thus can also be applied to image collections. We
 evaluate our proposed method on three video face clustering datasets. The experiments show that our methods outperform current state-of-the-art methods on all datasets. Video face clustering is lacking a common benchmark as current works are often evaluated with different metrics and/or different sets of face tracks
