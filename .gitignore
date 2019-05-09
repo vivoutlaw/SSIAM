@@ -1,4 +1,6 @@
-experiment/input_data
+experiment/input_data/bbt
+experiment/input_data/buffy
+experiment/input_data/hp
 experiment/models
 experiment/output_data
 *.mat
