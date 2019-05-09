@@ -20,7 +20,7 @@ address video face clustering using unsupervised methods. Our emphasis is on dis
 evaluate our proposed method on three video face clustering datasets. The experiments show that our methods outperform current state-of-the-art methods on all datasets. Video face clustering is lacking a common benchmark as current works are often evaluated with different metrics and/or different sets of face tracks
 For more details and evaluation results, please check out our [paper](https://arxiv.org/pdf/1903.01000.pdf).
 
-![SSiam Architecture](SSIAM.png)
+![SSiam Architecture](ssiam.png)
 
 
 ### Citation
