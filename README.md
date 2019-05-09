@@ -46,10 +46,10 @@ Please install MatConvNet in your own path, you need to change the corresponding
 
 To train and test SSiam from scratch, first download the training datasets:
 
-    $ cd experiments/input_data
+    $ mkdir -p experiments/input_data && cd experiments/input_data
     $ wget http://cvhci.anthropomatik.kit.edu/~vsharma/bbt.tar.gz
     $ tar -xzf bbt.tar.gz
-    $ cd ..
+    $ cd ../..
 
 
 This script will train and test the SSiam method on `BBT-0101` dataset:
