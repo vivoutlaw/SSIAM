@@ -1,5 +1,5 @@
 # Self-Supervised Learning of Face Representations for Video Face Clustering (FG 2019)
-### [Paper](https://arxiv.org/pdf/1711.11585.pdf) <br>
+### [Paper](https://arxiv.org/pdf/1903.01000.pdf) <br>
 
 [Vivek Sharma](http://vivoutlaw.github.io), 
 [Makarand Tapaswi](http://www.cs.toronto.edu/~makarand/), 
