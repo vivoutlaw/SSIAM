@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Self-Supervised Learning of Face Representations for Video Face Clustering (FG 2019)
 
 [Vivek Sharma](http://vivoutlaw.github.io), 
@@ -57,3 +58,9 @@ This script will train and test the SSiam method on `BBT-0101` dataset:
     >> demo()
     
 Note that we only train/test our code on single-GPU mode. Running `demo.m` will reproduce the results in our paper for `BBT-0101`. 
+=======
+# SSIAM
+Codes and dataset to Self-Supervised Learning of Face Representations for Video Face Clustering, Automatic Face &amp; Gesture Recognition (FG 2019).
+
+
+>>>>>>> f32f5430fd3ea2c62c301009ef89fccbda44ffb5
