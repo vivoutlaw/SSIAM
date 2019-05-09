@@ -27,7 +27,7 @@ For more details and evaluation results, please check out our [paper](https://ar
 
 If you find the code and datasets useful in your research, please cite:
     
-    @inproceedings{LapSRN,
+    @inproceedings{ssiam,
         author    = {Sharma, Vivek and Tapaswi, Makarand and Sarfraz, M. Saquib and Stiefelhagen, Rainer}, 
         title     = {Self-Supervised Learning of Face Representations for Video Face Clustering}, 
         booktitle = {IEEE International Conference on Automatic Face and Gesture Recognition},
