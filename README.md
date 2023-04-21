@@ -48,8 +48,8 @@ Please install MatConvNet in your own path, you need to change the corresponding
 To train and test SSiam from scratch, first download the training datasets:
 
     $ mkdir -p experiments/input_data && cd experiments/input_data
-    $ wget http://cvhci.anthropomatik.kit.edu/~vsharma/bbt.tar.gz
-    $ tar -xzf bbt.tar.gz
+    $ wget https://cvhci.anthropomatik.kit.edu/~datasets-publisher/published_datasets/face_and_body/BBT_Buffy_ACCIO_VGG_face_reps/VGG2.tar.gz
+    $ tar -xzf VGG2.tar.gz 
     $ cd ../..
 
 
